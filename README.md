@@ -23,7 +23,7 @@
 # Project Links  
 - **Technical Memo / Design Report**: [Tech Memo Design Report.pdf]()
   (Includes design process, linkage calculations, simulation details, and results)
-- **SolidWorks Model Files**: [Robot Assembly.sldasm]()
+- **SolidWorks Model Files**: [Robot Assembly.STEP](https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Crab_Assembly_on_Beach.STEP)
   (Main assembly, parts, and motion study — open in SolidWorks to run simulation)
 
 ## Future Improvements / Ideas
@@ -33,5 +33,5 @@
 - Experiment with gait variations or basic obstacle avoidance in simulation
 
 # Model Photo
-![Crab Robot in Motion Simulation]()
+![Crab Robot in Motion Simulation](https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Crab_on_Beach.PNG)
 *SolidWorks motion study capture showing the crab robot mid-stride with synchronized leg and pincher movement*
