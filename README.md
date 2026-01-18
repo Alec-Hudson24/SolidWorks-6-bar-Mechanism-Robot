@@ -25,6 +25,9 @@
   (Includes design process, linkage calculations, simulation details, and results)
 - **SolidWorks Model Files**: [Robot Assembly.STEP](https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Crab_Assembly_on_Beach.STEP)
   (Main assembly, parts, and motion study — open in SolidWorks to run simulation)
+- **Video Showcase**: [Tech Memo Design Report.pdf]( https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Crab_Walking_Finale.mp4)
+  (Video showing the Crab walking from one end of the floor to the other)
+ 
 
 ## Future Improvements / Ideas
 - Enable steering functionality (e.g., phase-shifted leg control for 90-degree turns)
