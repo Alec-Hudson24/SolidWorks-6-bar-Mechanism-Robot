@@ -21,7 +21,7 @@
 - Creative elements (e.g., crab theme) boost engagement and presentation quality while maintaining rigorous technical validation.
 
 # Project Links  
-- **Technical Memo / Design Report**: [Tech Memo Design Report.pdf]()
+- **Technical Memo / Design Report**: [Tech Memo Design Report.pdf](https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Six%20Bar%20Tech%20Memo%2012_03_2025%2016_57.pdf)
   (Includes design process, linkage calculations, simulation details, and results)
 - **SolidWorks Model Files**: [Robot Assembly.STEP](https://github.com/Alec-Hudson24/SolidWorks-6-bar-Mechanism-Robot/blob/main/Crab_Assembly_on_Beach.STEP)
   (Main assembly, parts, and motion study — open in SolidWorks to run simulation)
