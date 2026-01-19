@@ -40,3 +40,5 @@
 *SolidWorks motion study capture showing the crab robot mid-stride with synchronized leg and pincher movement*
 
 *This was for a class called Dynamics Lab*
+
+[Back](https://github.com/Alec-Hudson24/Project-Archive/blob/main/README.md)
